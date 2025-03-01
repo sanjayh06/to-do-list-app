@@ -1,4 +1,4 @@
-### **✅ To-Do List App**  
+## **✅ To-Do List App**  
 
 🚀 A simple and efficient task management app built with **React.js** and **Tailwind CSS** to help you stay organized. Easily add, complete, and remove tasks with a clean UI. 
 
