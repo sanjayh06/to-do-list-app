@@ -2,7 +2,7 @@
 
 🚀 A simple and efficient task management app built with **React.js** and **Tailwind CSS** to help you stay organized. Easily add, complete, and remove tasks with a clean UI. 
 
-![To-Do List Preview](https://your-image-link.com) *(Replace with an actual screenshot of your app)*
+<img src="https://github.com/sanjayh06/to-do-list-app/blob/main/src/assets/project4.png" width="500">
 
 ---  
 
